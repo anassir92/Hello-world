@@ -1,0 +1,4 @@
+Story.txt
+a
+b
+c
